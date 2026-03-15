@@ -2,7 +2,7 @@
 title: Index of my Site
 ---
 
-# my-repo-example
+# Title of index
 
 Welcome to the **my-repo-example** documentation.
 
