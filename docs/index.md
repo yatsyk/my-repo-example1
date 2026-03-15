@@ -1,5 +1,5 @@
 ---
-title: my-repo-example
+title: Index of my Site
 ---
 
 # my-repo-example
